@@ -1,25 +1,26 @@
-# Final Project and Deployment
+# CSS Layouts and Responsive Design
 
 ## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+
+Implement Flexbox and Grid for layout design.
+Make the webpage responsive using media queries.
+Ensure proper alignment and spacing.
 
 ## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+
+- use Flexbox or CSS Grid.
+- Add a navigation bar and structure the content.
+- Use media queries to adjust layout for mobile, tablet, and desktop.
 
 >[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+>  - Include at least:
+>  - navigation bar
+>  - media queries
 
-## Tasks
+# Tasks
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+- Apply Flexbox or Grid for layout.
+- Make the page responsive.
+- Test across different screen sizes.
 
-Good luck and happy coding! 🚀💻
+Happy Coding! 💻✨
